@@ -1,8 +1,10 @@
 {
     "cSpell.words": [
+        "argmax",
         "crossentropy",
         "keras",
         "matplotlib",
+        "preds",
         "pyplot",
         "relu",
         "sklearn",
