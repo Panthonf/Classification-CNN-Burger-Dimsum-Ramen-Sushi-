@@ -1,0 +1,10 @@
+
+--> download images folder
+--> extract file
+--> go to predict test data and Run all
+
+--> Upload result.txt
+--> panthon.f@gmail.com
+--> ปัณฑ์ธร กันทรัพย์
+--> 630612105
+--> desktop -> Term 2-2565 -> Computer Vision -> Classification -> result.txt
